@@ -1,1 +1,193 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T08:35:01.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ODaVxwlQyibCR747rXtu" version="20.7.4" type="github"><diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-29T09:28:53.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jhe2YgCo2cfO67a6m3l8" version="20.7.4" type="github">
+  <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
+    <mxGraphModel dx="1994" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-1" value="" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fontFamily=Lucida Console;dashed=1;shadow=0;glass=0;dashPattern=1 2;" parent="1" vertex="1">
+          <mxGeometry x="-179" y="515" width="652" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Lucida Console;fontSize=16;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-3" target="B9yrI63sCQJKP1Z30c3m-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务生成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="255" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;curved=1;" parent="1" source="B9yrI63sCQJKP1Z30c3m-7" target="B9yrI63sCQJKP1Z30c3m-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-7" target="B9yrI63sCQJKP1Z30c3m-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-7" target="B9yrI63sCQJKP1Z30c3m-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务下发&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="-163" y="255" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;任务1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;dashed=1;dashPattern=1 1;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="17" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;任务2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;dashed=1;dashPattern=1 1;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="18" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;任务3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;dashed=1;dashPattern=1 1;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="17" y="302" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-12" target="B9yrI63sCQJKP1Z30c3m-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务接收&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="396" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-14" target="B9yrI63sCQJKP1Z30c3m-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务持久化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="396" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-16" target="B9yrI63sCQJKP1Z30c3m-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;指令拆解&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry y="396" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;指令1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="170" y="401" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;指令2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="230" y="401" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;指令3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="290" y="401" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;······&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="350" y="401" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-21" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;指令n&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="410" y="401" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-22" value="指令队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontFamily=Lucida Console;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="170" y="371" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-24" target="B9yrI63sCQJKP1Z30c3m-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;指令队列持久化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="545" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-26" target="B9yrI63sCQJKP1Z30c3m-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;指令获取设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="545" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-31" target="B9yrI63sCQJKP1Z30c3m-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-28" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Lucida Console;" parent="B9yrI63sCQJKP1Z30c3m-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.1364" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-31" target="B9yrI63sCQJKP1Z30c3m-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Lucida Console;" parent="B9yrI63sCQJKP1Z30c3m-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.0897" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-31" value="设备可用" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;fontFamily=Lucida Console;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="19" y="536" width="82" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-33" target="B9yrI63sCQJKP1Z30c3m-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-33" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务排队&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="170" y="545" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-34" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务调度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="334" y="545" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-36" target="B9yrI63sCQJKP1Z30c3m-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-36" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;下发指令&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry y="636" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-38" target="B9yrI63sCQJKP1Z30c3m-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;设备执行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="170" y="636" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-40" target="B9yrI63sCQJKP1Z30c3m-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-40" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;设备上报&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="334" y="636" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-41" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-42" target="B9yrI63sCQJKP1Z30c3m-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;执行完成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="495" y="636" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-43" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=12;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-47" target="B9yrI63sCQJKP1Z30c3m-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-44" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Lucida Console;" parent="B9yrI63sCQJKP1Z30c3m-43" vertex="1" connectable="0">
+          <mxGeometry x="-0.1368" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;fontFamily=Lucida Console;fontSize=16;fontColor=#3333FF;endArrow=classic;endFill=1;" parent="1" source="B9yrI63sCQJKP1Z30c3m-47" target="B9yrI63sCQJKP1Z30c3m-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="733" y="460" />
+              <mxPoint x="142" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-46" value="&lt;font color=&quot;#330000&quot; style=&quot;font-size: 12px;&quot;&gt;否&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;fontFamily=Lucida Console;fontColor=#3333FF;" parent="B9yrI63sCQJKP1Z30c3m-45" vertex="1" connectable="0">
+          <mxGeometry x="-0.8894" y="5" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_zQ-AfZV-65REH8LVejj-1" value="触发下一条指令" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="B9yrI63sCQJKP1Z30c3m-45">
+          <mxGeometry x="0.1058" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-47" value="最后一条指令" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeWidth=1;fontFamily=Lucida Console;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="651" y="627" width="82" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-48" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;任务状态上报&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=0;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="632" y="728" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-49" value="&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 12px;&quot;&gt;拆解依据：业务流程及设备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;strokeWidth=1;fontFamily=Lucida Console;dashed=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-17.5" y="364" width="151" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-50" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff0000&quot;&gt;任务调度策略&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;fontFamily=Lucida Console;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="97" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=14;fontColor=#FF0000;endArrow=open;endFill=0;" parent="1" source="B9yrI63sCQJKP1Z30c3m-52" target="B9yrI63sCQJKP1Z30c3m-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-52" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff0000&quot;&gt;设备调度策略&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeWidth=1;fontFamily=Lucida Console;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="636" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-53" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#330000&quot;&gt;WMS/WES&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontFamily=Lucida Console;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-484" y="251" width="91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-54" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#330000&quot;&gt;WCS-任务&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontFamily=Lucida Console;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-484" y="392" width="91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="B9yrI63sCQJKP1Z30c3m-55" value="&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#330000&quot;&gt;WCS-指令&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;strokeWidth=1;fontFamily=Lucida Console;fontSize=14;fontColor=#FF0000;" parent="1" vertex="1">
+          <mxGeometry x="-484" y="538.5" width="91" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
